@@ -7,7 +7,7 @@ A repo full of tools to torture School!
 
 ## Documentation
 > School Laptop Laggers (Must be low spec chrome OS & windows systems)
-+ [Crasher1](http://bongo-hates-python.cf/)
-+ [Crasher2](https://crash.drugs4children.org/)
++ [Crasher](http://bongo-hates-python.cf/)
++ [Crasher/lagger](https://crash.drugs4children.org/)
 
 
