@@ -10,4 +10,6 @@ A repo full of tools to torture School!
 + [Crasher](http://bongo-hates-python.cf/)
 + [Crasher/lagger](https://crash.drugs4children.org/)
 
-
+> Developer Tool Bypasses
++ [Soon](https://github.com/StiizzyCat/SchoolTools)
++ [Soon](https://github.com/StiizzyCat/SchoolTools)
