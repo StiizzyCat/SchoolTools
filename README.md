@@ -1,4 +1,4 @@
-# School Tools
+# School Tools (C) 2021 - present Stiizzy Cat
 
 A repo full of tools to torture School!
 
