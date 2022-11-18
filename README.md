@@ -7,8 +7,8 @@ A repo full of tools to torture School!
 
 ## Documentation
 > School Laptop Laggers (Must be low spec chrome OS & windows systems)
-+ [Crasher](http://bongo-hates-python.cf/)
-+ [Crasher/lagger](https://crash.drugs4children.org/)
++ [Crasher](http://bongo-hates-python.cf/) ```http://bongo-hates-python.cf/```
++ [Crasher/lagger](https://crash.drugs4children.org/) ```https://crash.drugs4children.org/```
 
 > Developer Tool Bypasses
 ```JS 
